@@ -1,6 +1,6 @@
 <div align="center">
 
-> [!WARNING]
+> [!CAUTION]
 > 原有账号已经作废，此账号为本人新开的账号，所有原资产会原封不动转移到此账号，请注意辨识。
 > My previous account has been deactivated. This is a new account I have created. All of my previous assets will be transferred to this account exactly as they were. Please take note of this.
 
