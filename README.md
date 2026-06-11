@@ -1,5 +1,9 @@
 <div align="center">
 
+> [!WARNING]
+> 原有账号已经作废，此账号为本人新开的账号，所有原资产会原封不动转移到此账号，请注意辨识。
+> My previous account has been deactivated. This is a new account I have created. All of my previous assets will be transferred to this account exactly as they were. Please take note of this.
+
 # 👋 你好，我是 Kauo7420
 
 [English Version](README_en.md) | [Deutsche Version](README_de.md) | [日本語版](README_ja.md) | [한국어 버전](README_ko.md) | [Русская версия](README_ru.md) | [Versión en español](README_es.md) | [Version française](README_fr.md) | [臺灣繁體](README_zh-TW.md)
