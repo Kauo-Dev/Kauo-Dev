@@ -16,8 +16,8 @@
 
 <p align="center">
 <a href="<BLOG_URL>"><img src="https://img.shields.io/badge/Blog-Tech%20Articles-blue?style=for-the-badge&logo=blogger" alt="Blog"></a>
-<a href="<BILIBILI_URL>"><img src="https://img.shields.io/badge/Bilibili-Video%20Tutorials-pink?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
-<a href="https://github.com/Kauo7420?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Development%20Projects-red?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://space.bilibili.com/375148183"><img src="https://img.shields.io/badge/Bilibili-Video%20Tutorials-pink?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
+<a href="https://github.com/Kauo-Dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Development%20Projects-red?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 </div>

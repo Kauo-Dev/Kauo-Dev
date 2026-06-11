@@ -19,7 +19,7 @@
 <p align="center">
 <a href="<BLOG_URL>"><img src="https://img.shields.io/badge/博客-技术文章-blue?style=for-the-badge&logo=blogger" alt="Blog"></a>
 <a href="https://space.bilibili.com/375148183"><img src="https://img.shields.io/badge/Bilibili-视频教程-pink?style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
-<a href="https://github.com/Kauo7420?tab=repositories"><img src="https://img.shields.io/badge/Github-开发项目-red?style=for-the-badge&logo=github" alt="Github"></a>
+<a href="https://github.com/Kauo-Dev?tab=repositories"><img src="https://img.shields.io/badge/Github-开发项目-red?style=for-the-badge&logo=github" alt="Github"></a>
 </p>
 
 </div>
