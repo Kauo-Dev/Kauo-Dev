@@ -1,6 +1,11 @@
-> [!CAUTION]
-> 原有账号（Kauo7420）已经作废，此账号为本人新开的账号，所有原资产会原封不动转移到此账号，请注意辨识。<br>
-> My previous account (Kauo7420) has been deactivated. This is my new account, and all my previous assets will be transferred to it exactly as they were. Please take note of this.
+<pre>
+  _  __                                ____    _ _       ___       __   
+ | |/ /    __ _     _  _      ___     |__  |  | | |     |_  )     /  \  
+ | ' <    / _` |   | +| |    / _ \      / /   |_  _|     / /     | () | 
+ |_|\_\   \__,_|    \_,_|    \___/    _/_/_    _|_|_    /___|    _\__/  
+_|"""""| _|"""""| _|"""""| _|"""""| _|"""""| _|"""""| _|"""""| _|"""""| 
+"`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' "`-0-0-' 
+</pre>
 
 <div align="center">
 
